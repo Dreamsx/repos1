@@ -4,5 +4,6 @@ using namespace std;
 
 int main()
 {
+	cout << "this is donglaifu";
 	cout << "this is dlf";
 }
